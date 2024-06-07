@@ -1,4 +1,4 @@
-# PRODIGY_SD_05
+# PROJECT_Web_Scraper
 # Web Scraper 
 
 This is a simple web scraper implemented in Java using Jsoup library. The scraper fetches book data from a specific URL and writes it to a CSV file.
